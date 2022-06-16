@@ -10,7 +10,7 @@ on:
   
 jobs:
   
-  Print Message on ubuntu:
+  print_Message_on_ubuntu:
   
     runs-on: ubuntu-latest
 
@@ -27,7 +27,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-  Print Message with windows:
+  print_Message_with_windows:
   
     runs-on: windows-latest
 
